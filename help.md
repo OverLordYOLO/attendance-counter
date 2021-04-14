@@ -11,14 +11,14 @@ Je možné vyhledávat buď:
    * docházku pro **jedno jméno**
    * docházku pro **více jmen** najednou, která jsou uložena v souboru *jmena.txt*
 # Jak spustit skript?
-## Jedno jméno
+## Pro jedno jméno
 Pro spuštění skriptu s jedním jménem zadejte do terminálu
 > python main.py "[jmeno]"
 
 příklad:
 > python main.py "Daniel Zloty"
 
-## Více jmen
+## Pro více jmen
 Pro spuštění skriptu s více jmény najednou zadejte do terminálu
 > python main.py
 
